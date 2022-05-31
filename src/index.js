@@ -26,7 +26,7 @@ if(date>=1 && date<12)
 
 ReactDOM.render(
   <><div><h1>Hello sir, <span style={cssStyle}>{greeting} </span>   </h1>
-  <div className="curtime"><h2 >Time: {time}</h2></div>
+  <h2 >Time: {time}</h2>
   
 </div></>, document.getElementById("root")
 );

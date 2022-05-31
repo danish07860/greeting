@@ -18,7 +18,10 @@ h1{
   background-color: rgb(182, 206, 206);
   border-radius: 25px;
 }
-.curtime{
+h2{
+  padding: 20px;
   position: fixed;
-  top: 45%;;
+  top: 85%;
+  background-color: rgb(55, 152, 156);
+  border-radius: 25px;
 }
